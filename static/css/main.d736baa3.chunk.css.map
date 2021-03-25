@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.scss"],"names":[],"mappings":"AAAA,SACE,oBAAa,CAAb,YAAa,CACb,aAAA,CAAA,QAAS","file":"main.d736baa3.chunk.css","sourcesContent":[".buttons {\n  display: flex;\n  gap: 15px;\n}\n"]}
